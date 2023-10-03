@@ -18,3 +18,4 @@ The project "car-detection-with-yolov5" likely refers to a computer vision or de
 7. **Deployment:** Depending on the project's goals, the trained YOLOv5 car detection model may be deployed in real-world applications. This could involve integrating it with cameras or video streams for real-time car detection.
 
 In summary, "car-detection-with-yolov5" is a computer vision project that utilizes the YOLOv5 model to detect cars in images or video streams. The project likely involves dataset preparation, model training, evaluation, and potentially deployment for practical use cases related to car detection.
+Thank you 
